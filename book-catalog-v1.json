@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "books": [
+    {
+      "id": "paralingo-es-marianela",
+      "editionVersion": 1,
+      "languageCode": "es",
+      "locale": "es-ES",
+      "title": "Marianela",
+      "author": "Benito Pérez Galdós",
+      "firstPublicationYear": 1878,
+      "difficulty": "starter",
+      "difficultyNote": "A full historical novel with older vocabulary. Project Gutenberg reports a reading-ease score of 64.9, described as neither easy nor difficult.",
+      "description": "A compassionate novel about Marianela, a poor young guide, and Pablo, the blind young man who understands the world through her eyes.",
+      "attribution": "Original Spanish text by Benito Pérez Galdós. Paralingo edition derived from Project Gutenberg eBook 17340.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/17340",
+      "rightsRecordUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/rights/paralingo-es-marianela-v1.json",
+      "sizeBytes": 583753,
+      "checksumSha256": "09196bd3f1a95df175b2b1347af7e959f1ecbe6a256cc8831d6ed0e765c4b67b",
+      "downloadUrl": "https://github.com/Paralingo/paralingo-books/releases/download/marianela-v1.0.0/paralingo-es-marianela-v1.epub"
+    }
+  ]
+}

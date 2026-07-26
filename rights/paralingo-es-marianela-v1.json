@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "recordVersion": 1,
+  "reviewedOn": "2026-07-26",
+  "bookId": "paralingo-es-marianela",
+  "editionVersion": 1,
+  "work": {
+    "title": "Marianela",
+    "author": "Benito Pérez Galdós",
+    "authorLife": "1843–1920",
+    "originalLanguage": "Spanish",
+    "firstPublicationYear": 1878
+  },
+  "selectionPolicy": {
+    "originalLanguageOnly": true,
+    "minimumYearsSinceAuthorDeath": 100,
+    "excludeModernContributions": true,
+    "requireOriginalCover": true
+  },
+  "source": {
+    "provider": "Project Gutenberg",
+    "ebookId": 17340,
+    "url": "https://www.gutenberg.org/ebooks/17340",
+    "sourceClaim": "Public domain in the USA",
+    "sourceMetadataContributors": [
+      {
+        "name": "Chuck Greif",
+        "role": "digital production credit"
+      }
+    ],
+    "observations": [
+      "The source EPUB identifies Benito Pérez Galdós as its sole creator.",
+      "The source title page identifies the 1878 Imprenta y Litografía de La Guirnalda edition.",
+      "No translator, editor, commentator, or illustrator is identified in the source EPUB metadata."
+    ]
+  },
+  "excludedContent": [
+    "Project Gutenberg header, footer, licence text, branding, styles, and cover",
+    "All source-package artwork",
+    "Any modern introduction, commentary, annotation, font, or translation"
+  ],
+  "paralingoEdition": {
+    "editionDate": "2026-07-26",
+    "chapterCount": 22,
+    "wordCountEstimate": 51119,
+    "textChanges": "Source packaging and page-marker markup removed. The prose was not modernized.",
+    "cover": {
+      "fileName": "marianela-cover-v1.jpg",
+      "sourceArtworkUsed": false,
+      "provenanceUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/assets/marianela-cover-v1.provenance.json",
+      "rights": "Cover art and edition design © 2026 Paralingo."
+    }
+  },
+  "package": {
+    "fileName": "paralingo-es-marianela-v1.epub",
+    "sizeBytes": 583753,
+    "checksumSha256": "09196bd3f1a95df175b2b1347af7e959f1ecbe6a256cc8831d6ed0e765c4b67b",
+    "epubCheckVersion": "5.3.0",
+    "epubCheckResult": "0 errors, 0 warnings",
+    "deterministicBuildVerified": true
+  },
+  "review": {
+    "status": "approved-under-project-policy",
+    "approvedForDistribution": true,
+    "limitations": "This is a conservative project rights review, not a legal opinion or a guarantee for every jurisdiction."
+  }
+}

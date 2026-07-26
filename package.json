@@ -1,0 +1,12 @@
+{
+  "name": "paralingo-books",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:marianela": "node build/buildMarianelaEdition.mjs"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}

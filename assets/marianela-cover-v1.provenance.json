@@ -1,0 +1,10 @@
+{
+  "assetVersion": 1,
+  "fileName": "marianela-cover-v1.jpg",
+  "createdOn": "2026-07-26",
+  "creationMethod": "OpenAI built-in image generation",
+  "postProcessing": "Resized to 800 × 1200 pixels and encoded as JPEG for EPUB use.",
+  "sourceArtworkUsed": false,
+  "prompt": "Create an elegant original book cover for the 1878 Spanish novel Marianela by Benito Pérez Galdós. A poetic nineteenth-century northern Spanish mining landscape at dusk, refined limited-color editorial illustration, 2:3 portrait composition, deep navy, muted mineral rust, warm cream and gold. Include exactly: MARIANELA; BENITO PÉREZ GALDÓS; PARALINGO CLASSICS. No logos, inherited artwork, watermarks, extra text, modern mine, or identifiable real person.",
+  "rightsNote": "Generated specifically for Paralingo without input images or inherited book-cover artwork."
+}
