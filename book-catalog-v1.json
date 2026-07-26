@@ -14,6 +14,7 @@
       "difficultyNote": "A full historical novel with older vocabulary. Project Gutenberg reports a reading-ease score of 64.9, described as neither easy nor difficult.",
       "description": "A compassionate novel about Marianela, a poor young guide, and Pablo, the blind young man who understands the world through her eyes.",
       "attribution": "Original Spanish text by Benito Pérez Galdós. Paralingo edition derived from Project Gutenberg eBook 17340.",
+      "coverUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/assets/marianela-cover-v1.jpg",
       "sourceUrl": "https://www.gutenberg.org/ebooks/17340",
       "rightsRecordUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/rights/paralingo-es-marianela-v1.json",
       "sizeBytes": 583753,
