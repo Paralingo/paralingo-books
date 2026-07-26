@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "asset": "pinocchio-cover-v1.jpg",
+  "createdOn": "2026-07-27",
+  "creator": "Paralingo using OpenAI image generation",
+  "method": "Built-in image generation followed by deterministic JPEG conversion",
+  "sourceArtworkReused": false,
+  "promptSummary": "Original vintage literary cover showing a handcrafted wooden puppet at a Tuscan workshop threshold at dusk.",
+  "exactCoverText": [
+    "LE AVVENTURE DI PINOCCHIO",
+    "CARLO COLLODI",
+    "PARALINGO CLASSICS"
+  ],
+  "rightsNote": "Original cover asset created for the Paralingo edition; no Project Gutenberg or historical-edition illustration was used as an input."
+}

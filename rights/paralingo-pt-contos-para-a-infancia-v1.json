@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "recordVersion": 1,
+  "reviewedOn": "2026-07-27",
+  "bookId": "paralingo-pt-contos-para-a-infancia",
+  "editionVersion": 1,
+  "work": {
+    "title": "Contos para a infância",
+    "compilerAndAdapter": "Abílio Manuel Guerra Junqueiro",
+    "compilerLife": "1850–1923",
+    "originalLanguage": "Portuguese",
+    "firstPublicationYear": 1877
+  },
+  "selectionPolicy": {
+    "originalLanguageOnly": true,
+    "minimumYearsSinceCompilerDeath": 100,
+    "excludeUnlicensedModernContributions": true,
+    "requireOriginalCover": true
+  },
+  "source": {
+    "provider": "Project Gutenberg",
+    "ebookId": 16429,
+    "url": "https://www.gutenberg.org/ebooks/16429",
+    "sourceClaim": "Public domain in the USA",
+    "originalPublication": "Lisboa: Typographia Universal de Thomaz Quintino Antunes, 1877",
+    "digitalProductionCredits": [
+      "Biblioteca Nacional Digital",
+      "Rita Farinha",
+      "Online Distributed Proofreading Team"
+    ]
+  },
+  "spellingModernization": {
+    "credit": "Manuela Alves",
+    "scope": "Spelling modernization of the 1877 Portuguese text",
+    "providerPosition": "Project Gutenberg states that it claims no copyright for spelling modernization, markup, and similar mechanical changes in the United States.",
+    "evidenceUrl": "https://www.gutenberg.org/policy/permission.html",
+    "worldwideCaveat": "Project Gutenberg does not provide a worldwide copyright warranty. This record treats the contribution as spelling-only and excludes any new narrative adaptation, commentary, or illustration."
+  },
+  "excludedContent": [
+    "Project Gutenberg header, footer, licence text, branding, and styles",
+    "All source-package artwork and historical-edition images",
+    "Any modern introduction, commentary, annotation, font, or cover"
+  ],
+  "paralingoEdition": {
+    "editionDate": "2026-07-27",
+    "storyCount": 43,
+    "wordCountEstimate": 28235,
+    "textChanges": "Source packaging and page-marker markup removed. The documented spelling-modernized narrative was retained without simplification or new adaptation.",
+    "cover": {
+      "fileName": "contos-para-a-infancia-cover-v1.jpg",
+      "sourceArtworkUsed": false,
+      "provenanceUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/assets/contos-para-a-infancia-cover-v1.provenance.json",
+      "rights": "Cover art and edition design © 2026 Paralingo."
+    }
+  },
+  "package": {
+    "fileName": "paralingo-pt-contos-para-a-infancia-v1.epub",
+    "sizeBytes": 987710,
+    "checksumSha256": "0dcb081a0751013722cec21f4f7a30c61cd3f5d034d8e108404e2420b95bab92",
+    "epubCheckVersion": "5.3.0",
+    "epubCheckResult": "0 errors, 0 warnings",
+    "deterministicBuildVerified": true
+  },
+  "review": {
+    "status": "approved-under-project-policy",
+    "approvedForDistribution": true,
+    "limitations": "This is a conservative project rights review, not a legal opinion or a guarantee for every jurisdiction."
+  }
+}
