@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "recordVersion": 1,
+  "reviewedOn": "2026-07-27",
+  "bookId": "paralingo-it-pinocchio",
+  "editionVersion": 1,
+  "work": {
+    "title": "Le avventure di Pinocchio",
+    "author": "Carlo Collodi",
+    "authorLife": "1826–1890",
+    "originalLanguage": "Italian",
+    "firstPublicationYear": 1883
+  },
+  "selectionPolicy": {
+    "originalLanguageOnly": true,
+    "minimumYearsSinceAuthorDeath": 100,
+    "excludeModernContributions": true,
+    "requireOriginalCover": true
+  },
+  "source": {
+    "provider": "Project Gutenberg",
+    "ebookId": 52484,
+    "url": "https://www.gutenberg.org/ebooks/52484",
+    "sourceClaim": "Public domain in the USA",
+    "sourceMetadataContributors": [
+      {
+        "name": "Barbara Magni",
+        "role": "digital production credit"
+      },
+      {
+        "name": "Carlo Chiostri",
+        "life": "1863–1939",
+        "role": "source-edition illustrator; excluded from the Paralingo edition"
+      }
+    ]
+  },
+  "excludedContent": [
+    "Project Gutenberg header, footer, licence text, branding, styles, and cover",
+    "All illustrations and captions from the Carlo Chiostri source edition",
+    "Any modern introduction, commentary, annotation, font, or translation"
+  ],
+  "paralingoEdition": {
+    "editionDate": "2026-07-27",
+    "chapterCount": 36,
+    "wordCountEstimate": 38972,
+    "textChanges": "Source packaging, illustration captions, and page-marker markup removed. The Italian prose was not modernized.",
+    "cover": {
+      "fileName": "pinocchio-cover-v1.jpg",
+      "sourceArtworkUsed": false,
+      "provenanceUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/assets/pinocchio-cover-v1.provenance.json",
+      "rights": "Cover art and edition design © 2026 Paralingo."
+    }
+  },
+  "package": {
+    "fileName": "paralingo-it-pinocchio-v1.epub",
+    "sizeBytes": 846151,
+    "checksumSha256": "e59548c15669386daf6337b78ebf57c7b97881052a3c25b9561dc642671bab23",
+    "epubCheckVersion": "5.3.0",
+    "epubCheckResult": "0 errors, 0 warnings",
+    "deterministicBuildVerified": true
+  },
+  "review": {
+    "status": "approved-under-project-policy",
+    "approvedForDistribution": true,
+    "limitations": "This is a conservative project rights review, not a legal opinion or a guarantee for every jurisdiction."
+  }
+}

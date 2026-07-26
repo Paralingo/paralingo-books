@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:marianela": "node build/buildMarianelaEdition.mjs"
+    "build:marianela": "node build/buildMarianelaEdition.mjs",
+    "build:starters": "node build/buildStarterClassics.mjs"
   },
   "dependencies": {
     "jszip": "^3.10.1"

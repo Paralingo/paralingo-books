@@ -8,6 +8,8 @@ Free original-language classics prepared for the
 | Language | Book | Author | Level | Download |
 | --- | --- | --- | --- | --- |
 | Spanish | *Marianela* | Benito Pérez Galdós | Starter classic | [EPUB](https://github.com/Paralingo/paralingo-books/releases/download/marianela-v1.0.0/paralingo-es-marianela-v1.epub) |
+| Portuguese | *Contos para a infância* | Guerra Junqueiro | Starter classic | [EPUB](https://github.com/Paralingo/paralingo-books/releases/download/contos-para-a-infancia-v1.0.0/paralingo-pt-contos-para-a-infancia-v1.epub) |
+| Italian | *Le avventure di Pinocchio* | Carlo Collodi | Starter classic | [EPUB](https://github.com/Paralingo/paralingo-books/releases/download/pinocchio-v1.0.0/paralingo-it-pinocchio-v1.epub) |
 
 “Starter classic” means this is the first and most approachable Paralingo
 selection for the language. It does not mean the historical text is suitable
@@ -26,6 +28,7 @@ for an A1 or A2 learner.
 Paralingo editions use original-language works selected under a conservative
 rights policy. Modern translations, introductions, annotations, inherited
 covers, fonts, and illustrations are excluded unless separately cleared.
+Spelling-only modernization requires a dedicated provenance and risk record.
 
 The underlying text and the Paralingo cover/layout may have different rights.
 See the individual rights record before redistributing an edition. Public

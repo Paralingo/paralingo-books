@@ -20,6 +20,44 @@
       "sizeBytes": 583753,
       "checksumSha256": "09196bd3f1a95df175b2b1347af7e959f1ecbe6a256cc8831d6ed0e765c4b67b",
       "downloadUrl": "https://github.com/Paralingo/paralingo-books/releases/download/marianela-v1.0.0/paralingo-es-marianela-v1.epub"
+    },
+    {
+      "id": "paralingo-pt-contos-para-a-infancia",
+      "editionVersion": 1,
+      "languageCode": "pt",
+      "locale": "pt-PT",
+      "title": "Contos para a infância",
+      "author": "Guerra Junqueiro",
+      "firstPublicationYear": 1877,
+      "difficulty": "starter",
+      "difficultyNote": "Short, episodic children's stories in modern spelling. The vocabulary and moral style remain historical rather than graded beginner Portuguese.",
+      "description": "Forty-three imaginative and moral tales selected for young readers, presented in European Portuguese with modern spelling.",
+      "attribution": "Portuguese collection prepared by Guerra Junqueiro. Paralingo edition derived from Project Gutenberg eBook 16429.",
+      "coverUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/assets/contos-para-a-infancia-cover-v1.jpg",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/16429",
+      "rightsRecordUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/rights/paralingo-pt-contos-para-a-infancia-v1.json",
+      "sizeBytes": 987710,
+      "checksumSha256": "0dcb081a0751013722cec21f4f7a30c61cd3f5d034d8e108404e2420b95bab92",
+      "downloadUrl": "https://github.com/Paralingo/paralingo-books/releases/download/contos-para-a-infancia-v1.0.0/paralingo-pt-contos-para-a-infancia-v1.epub"
+    },
+    {
+      "id": "paralingo-it-pinocchio",
+      "editionVersion": 1,
+      "languageCode": "it",
+      "locale": "it-IT",
+      "title": "Le avventure di Pinocchio",
+      "author": "Carlo Collodi",
+      "firstPublicationYear": 1883,
+      "difficulty": "starter",
+      "difficultyNote": "A familiar episodic story, but Project Gutenberg reports a reading-ease score of 55.4 and the Italian remains historical rather than beginner-level.",
+      "description": "The mischievous wooden puppet Pinocchio leaves Geppetto's workshop and learns about courage, responsibility, and becoming human.",
+      "attribution": "Original Italian text by Carlo Collodi. Paralingo edition derived from Project Gutenberg eBook 52484.",
+      "coverUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/assets/pinocchio-cover-v1.jpg",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/52484",
+      "rightsRecordUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-books/main/rights/paralingo-it-pinocchio-v1.json",
+      "sizeBytes": 846151,
+      "checksumSha256": "e59548c15669386daf6337b78ebf57c7b97881052a3c25b9561dc642671bab23",
+      "downloadUrl": "https://github.com/Paralingo/paralingo-books/releases/download/pinocchio-v1.0.0/paralingo-it-pinocchio-v1.epub"
     }
   ]
 }
