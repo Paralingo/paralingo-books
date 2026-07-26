@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "books": [
     {
       "id": "paralingo-es-marianela",
@@ -27,7 +27,7 @@
       "languageCode": "pt",
       "locale": "pt-PT",
       "title": "Contos para a infância",
-      "author": "Guerra Junqueiro",
+      "author": "Abílio Manuel Guerra Junqueiro",
       "firstPublicationYear": 1877,
       "difficulty": "starter",
       "difficultyNote": "Short, episodic children's stories in modern spelling. The vocabulary and moral style remain historical rather than graded beginner Portuguese.",
